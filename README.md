@@ -8,39 +8,14 @@ To Create a project on Time series analysis on weather forecasting using ARIMA m
 
 ### ALGORITHM :
 
-#### Step 1 : 
+1. Explore the dataset of weather
+2. Check for stationarity of time series time series plot ACF plot and PACF plot ADF test Transform to stationary: differencing
+3. Determine ARIMA models parameters p, q
+4. Fit the ARIMA model
+5. Make time series predictions
+6. Auto-fit the ARIMA model
+7. Evaluate model predictions
 
-Explore the dataset of weather.
-
-#### Step 2 : 
-
-Check for stationarity of time series time series plot :
-
-   ACF plot and PACF plot
-   
-   ADF test
-   
-   Transform to stationary: differencing
-   
-#### Step 3 : 
-
-Determine ARIMA models parameters p, q.
-
-#### Step 4 : 
-
-Fit the ARIMA model.
-
-#### Step 5 :
-
-Make time series predictions.
-
-#### Step 6 : 
-
-Auto-fit the ARIMA model.
-
-#### Step 7 : 
-
-Evaluate model predictions.
 
 ### PROGRAM :
 ```py
